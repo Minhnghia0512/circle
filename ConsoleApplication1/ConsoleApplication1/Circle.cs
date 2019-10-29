@@ -48,7 +48,7 @@ namespace ConsoleApplication1
         }
         public String toString()
         {
-            return "Circle[radius=" + radius + " color=" + color + "]";
+            return "Circle has radius=" + radius + " and color=" + color + "]";
         }
     }
 }
